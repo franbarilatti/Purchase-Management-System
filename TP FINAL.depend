@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1491400450 source:c:\facu\1 cuatrimestre\laboratorio i\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593468665 source:c:\facu\1 cuatrimestre\laboratorio i\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"gotoxy.h"
+	<windows.h>
+	<time.h>
+
+1491399896 c:\facu\1 cuatrimestre\laboratorio i\tp final\gotoxy.h
+
+1593485326 source:c:\facu\1 cuatrimestre\laboratorio i\tp final\trabajo final.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"gotoxy.h"
+	<windows.h>
+	<time.h>
+
